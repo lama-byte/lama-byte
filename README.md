@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7B6CDE&width=435&lines=Hi+There%2C+I'm+Lama+!;Welcome+to+my+GitHub+Page+%E2%8B%86%CB%99%E2%9F%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9792E1&width=435&lines=Hi+There%2C+I'm+Lama+!;Welcome+to+my+GitHub+Page+%E2%8B%86%CB%99%E2%9F%A1)](https://git.io/typing-svg)
 
 **`Senior CYB student | Web App Developer | Open to Learn ~ `**
 
